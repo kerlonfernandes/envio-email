@@ -1,1 +1,1 @@
-senha = 'ghfirndxmsmjitnt'
+senha = ''
