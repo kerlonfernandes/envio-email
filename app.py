@@ -10,7 +10,7 @@ EMAIL_PASSWORD = senha
 #Criar um e-mail
 msg = EmailMessage()
 msg['Subject'] = 'Olá'
-msg['From'] = "zzmids1@gmail.com" 
+msg['From'] = @gmail.com" 
 msg['To'] = ['@gmail.com']
 msg.set_content('Olá, este é um exemplo de email')
 
